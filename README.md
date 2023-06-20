@@ -4,7 +4,7 @@ An opinionated colormap for [Matplotlib](https://matplotlib.org/), based on the 
 Note: obviously in no way officially affiliated with CSAIL. Just a selection of colors for your plots based off my personal preferences.
 
 # Why
-Why not?
+Because I think it's an aesthetically pleasing set of colors :)
 
 # Installation
 1. Download [csail-like.mplstyle](https://raw.githubusercontent.com/theoxo/csail-colormap/main/csail-like.mplstyle)
