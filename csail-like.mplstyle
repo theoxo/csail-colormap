@@ -1,2 +1,2 @@
-axes.prop_cycle    : cycler('color', ['B94700', '009CDE', 'F0B323', '49C5B1', '151F6D'])
+axes.prop_cycle    : cycler('color', ['B94700', '009CDE', 'F0B323', '49C5B1', '151F6D', '006837', '7E317B', 'FF6B6B'])
 patch.facecolor        : 009CDE
